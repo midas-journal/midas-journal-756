@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Support for penalty terms in the ITK}{3}{section.2}
+\contentsline {section}{\numberline {3}Affine transformation}{5}{section.3}
+\contentsline {section}{\numberline {4}B-spline transformation}{6}{section.4}
+\contentsline {section}{\numberline {5}Combining transformations}{7}{section.5}
+\contentsline {section}{\numberline {6}Bending energy penalty term}{8}{section.6}
+\contentsline {section}{\numberline {7}Discussion and Conclusion}{9}{section.7}
